@@ -1,0 +1,6 @@
+{
+  "name": "خدمة عملاء إتصالات",
+  "description": "تطبيق المحادثة المباشرة مع خدمة عملاء إتصالات مصر وحساب My Etisalat",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

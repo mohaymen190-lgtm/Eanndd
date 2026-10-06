@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">خدمة عملاء إتصالات</string>
+    <string name="login_title">تسجيل الدخول - My Etisalat</string>
+    <string name="email_label">البريد الإلكتروني أو اسم المستخدم</string>
+    <string name="password_label">كلمة المرور</string>
+    <string name="dial_label">رقم الهاتف (مثال: 011xxxxxxxx)</string>
+    <string name="connect_button">بدء المحادثة المباشرة</string>
+    <string name="connecting">جاري الاتصال بالنظام...</string>
+    <string name="chat_title">خدمة عملاء إتصالات مصر</string>
+    <string name="status_online">متصل الآن</string>
+    <string name="type_message_hint">اكتب رسالتك لخدمة العملاء...</string>
+    <string name="send">إرسال</string>
+</resources>
